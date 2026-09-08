@@ -11,7 +11,7 @@ url: /anytls-snell-vpn
 
 ## 记录
 
-今年的 64 大考没过，有两台 VPS 的 IP 被封。
+今年的 64 大考没过 ，有两台 VPS 的 IP 被封。
 
 6 月 3 号下午 4 点，DMIT IP 被封，当天同一时段有大量 DMIT 和 BWG 的 IP 被封禁，导致能免费更换 IP 的 DMIT 已经没有 IP 给用户换了，IP 在七天后解封。
 
