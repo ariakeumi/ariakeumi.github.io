@@ -1,5 +1,5 @@
 ---
-title: "Apple Pay 卡面修改"
+title: "使用 AirCard 修改 Apple Pay 的卡面"
 description: ""
 date: 2026-09-24
 image: index.webp
